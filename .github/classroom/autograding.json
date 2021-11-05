@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "testStartsWithA",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testStartsWithA",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testMakeExciting",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testMakeExciting",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testCheckDuplicates",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testCheckDuplicates",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testCountOdd",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testCountOdd",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testConvertToArrayList",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testConvertToArrayList",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testMerge",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testMerge",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
